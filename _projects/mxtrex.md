@@ -1,6 +1,5 @@
 ---
 title: "mxTRex: Uncovering T-cell transcriptional programs associated with antigen specificity in single cell genomics"
-# excerpt: "<br/><img src='/images/mxtrex_combined.png'>"
 collection: portfolio
 ---
 

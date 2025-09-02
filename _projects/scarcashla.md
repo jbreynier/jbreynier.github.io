@@ -1,6 +1,5 @@
 ---
 title: "sc-arcasHLA: Probabilistic inference of HLA expression variation at the single cell level"
-# excerpt: "<br/><img src='/images/scarcashla.png'>"
 collection: portfolio
 ---
 
